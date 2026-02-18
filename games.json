@@ -1,8 +1,1 @@
-{
-    "games": [
-        {
-            "name": "Wrestle Bros",
-            "src": "https://gogamego.io/wp-content/uploads/games/html5/W/wrestle-bros-io/wrestle-bros-io/"
-        }
-    ]
-}
+{"games": [{"name": "Wrestle Bros", "src": "https://gogamego.io/wp-content/uploads/games/html5/W/wrestle-bros-io/wrestle-bros-io/"}, {"name": "Space Waves", "src": "https://space-waves.game-files.crazygames.com/unity/unity2020/space-waves.html?skipPrerollFirstSession=true&v=1.351"}]}
